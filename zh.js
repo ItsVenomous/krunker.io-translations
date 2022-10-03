@@ -116,7 +116,7 @@ settings.client.angleBackend ANGLE后端
 settings.client.colorProfile 色彩配置文件
 settings.client.resourcePacks 资源包
 settings.dev.header 开发者
-settings.dev.forceUpdate 强制刷新皮肤
+settings.dev.forceUpdate 总是刷新皮肤
 settings.dev.forceRegen 总是重生玩家
 settings.dev.extraBan 更多封禁信息
 settings.chat.header 聊天
